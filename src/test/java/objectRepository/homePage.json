@@ -1,0 +1,9 @@
+{
+  "GirisButton": {
+    "value": "//button[@data-test-id='header-register-btn']",
+    "type": "xpath"
+  }
+}
+
+
+
